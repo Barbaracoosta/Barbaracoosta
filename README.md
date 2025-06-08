@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou a Bárbara 👋</h1>
+<h1 align="center">Oiê! Eu sou a Bárbara 👋</h1>
 
 <p align="center">
   Desenvolvedora Full Stack | Apaixonada por tecnologia e soluções criativas
