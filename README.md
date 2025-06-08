@@ -4,9 +4,11 @@
   Desenvolvedora Full Stack | Apaixonada por tecnologia e soluções criativas
 </p>
 
-<div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api? username=Barbaracoosta&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&bg_color=000000&title_color=ff69b4&text_color=dda0dd&icon_color=dda0dd&border_color=dda0dd" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbaracoosta&layout=compact&langs_count=7&bg_color=000000&title_color=ff69b4&text_color=dda0dd&icon_color=87cefa&border_color=dda0dd" />
+
+ <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barbaracoosta&show_icons=true&bg_color=000000&title_color=ff69b4&text_color=dda0dd&icon_color=ff69b4&border_color=ff69b4" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbaracoosta&layout=compact&langs_count=7&bg_color=000000&title_color=ff69b4&text_color=dda0dd&icon_color=ff69b4&border_color=ff69b4&progress_color=ff69b4" />
+
 </div>
 
 ## 🛠️ Minhas Habilidades
