@@ -5,9 +5,8 @@
 </p>
 
 <div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barbaracoosta&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&bg_color=000000&title_color=ff69b4&text_color=dda0dd&icon_color=dda0dd&border_color=dda0dd" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbaracoosta&layout=compact&langs_count=7&bg_color=000000&title_color=ff69b4&text_color=dda0dd&icon_color=dda0dd&border_color=dda0dd" /> 
-  
+ <img height="180em" src="https://github-readme-stats.vercel.app/api? username=Barbaracoosta&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&bg_color=000000&title_color=ff69b4&text_color=dda0dd&icon_color=dda0dd&border_color=dda0dd" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbaracoosta&layout=compact&langs_count=7&bg_color=000000&title_color=ff69b4&text_color=dda0dd&icon_color=87cefa&border_color=dda0dd" />
 </div>
 
 ## 🛠️ Minhas Habilidades
@@ -35,7 +34,7 @@
   <a href="mailto:babiicoosta@hotmail.com">
     <img src="https://img.shields.io/badge/-Email-5a189a?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />   
   </a>   
-  <img src="https://komarev.com/ghpvc/?username=Barbaracoosta&color=6e40c9&labelColor=2d3748&style=for-the-badge" alt="Visualizações" />
+   <img src="https://komarev.com/ghpvc/?username=Barbaracoosta&color=6e40c9&labelColor=2d3748&style=for-the-badge" alt="Visualizações" />
 </p>
 
 
